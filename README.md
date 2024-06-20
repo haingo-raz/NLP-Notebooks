@@ -9,3 +9,5 @@ For insights purposes, we evaluate the performance of the Naive Bayes classifier
 
 - [Information Extraction using SpaCy](InformationExtraction/)
 The notebooks cover basic operations such as  part of speech tagging, dependency parsing, named entity recognition, noun chunk, and slot filling.
+
+- [Regex basics](Regex/regex.ipynb)
