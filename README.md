@@ -11,3 +11,6 @@ For insights purposes, we evaluate the performance of the Naive Bayes classifier
 The notebooks cover basic operations such as  part of speech tagging, dependency parsing, named entity recognition, noun chunk, and slot filling.
 
 - [Regex basics](Regex/regex.ipynb)
+
+- [Optical Character Recognition with Pytesseract](OpticalCharacterRecognition/OCR_pytesseract.ipynb)
+Explored the capabilities of pytesseract when it comes to reading text from images.
